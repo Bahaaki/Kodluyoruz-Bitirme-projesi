@@ -25,3 +25,6 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Bahaaki/Kodluyoruz-Bitirme-projesi.git](https://github.com/Bahaaki/Kodluyoruz-Bitirme-projesi.git)
+   cd Kodluyoruz-Bitirme-projesi/React\ Projesi-game-listing
+   npm install
+   npm start
